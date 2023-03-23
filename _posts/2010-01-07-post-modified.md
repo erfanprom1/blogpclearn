@@ -11,4 +11,4 @@ tags:
 
 اپارات:https://www.aparat.com/pclearnn
 یوتیوب:https://www.youtube.com/@pclearnn/videos
-تلگرام:https://github.com/erfanprom1/pclearn.git
+تلگرام:https://erfanprom1.github.io/pclearn/
