@@ -62,7 +62,19 @@ author:
   avatar : "https://s2.uupload.ir/files/عکس-ادمک-نشسته_3dtv.jpg"
   bio    : "خوش امدید"
   links:
-    
+     
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 footer:
   links:
     - label: "Twitter"
